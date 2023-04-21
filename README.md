@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Subham
-- 👀 I’m interested in MLOps.
-- 🌱 I’m currently a College Student.
+- 👀 Interested in MLOps.
+- 🌱 Currently pursuing my Bachelor's.
 - 📫 You can reach me at: subhamdas1801@gmail.com
 
 <!---
